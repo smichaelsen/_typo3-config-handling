@@ -1,0 +1,11 @@
+{
+    "name": "smichaelsen/typo3-config-handling",
+    "require": {
+        "helhum/config-loader": "^0.9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Smichaelsen\\Typo3ConfigHandling\\": "src"
+        }
+    }
+}
